@@ -1,0 +1,2 @@
+cd F:\JupyterDataVis\JupyterDashboard
+jupyter nbconvert --to html --no-input dashboard.ipynb 
